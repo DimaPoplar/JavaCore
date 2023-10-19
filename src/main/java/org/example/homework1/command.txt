@@ -1,0 +1,4 @@
+1. javac JavaCore\src\main\java\org\example\homework1\Main.java -sourcepath  .\JavaCore\src\main\java\ -d .\out -encoding utf-8
+2. java -classpath .\out org.example.homework1.Main
+
+
